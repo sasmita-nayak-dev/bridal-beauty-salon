@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="insta4" x1="0" y1="0" x2="0.4" y2="1"><stop offset="0" stop-color="#F4ECE3"/><stop offset="1" stop-color="#E7C2C4"/></linearGradient></defs>
+<rect width="800" height="800" fill="url(#insta4)"/>
+<path d="M160 640 Q200 240 120 120" stroke="#B77B83" stroke-opacity=".5" stroke-width="20" stroke-linecap="round" fill="none"/><path d="M272 640 Q312 240 263.99999999999994 120" stroke="#B77B83" stroke-opacity=".5" stroke-width="20" stroke-linecap="round" fill="none"/><path d="M384.00000000000006 640 Q424 240 408 120" stroke="#B77B83" stroke-opacity=".5" stroke-width="20" stroke-linecap="round" fill="none"/><path d="M496.0000000000001 640 Q536 240 552 120" stroke="#B77B83" stroke-opacity=".5" stroke-width="20" stroke-linecap="round" fill="none"/><path d="M608 640 Q648 240 696 120" stroke="#B77B83" stroke-opacity=".5" stroke-width="20" stroke-linecap="round" fill="none"/><circle cx="400" cy="400" r="96" fill="#C5A46D" fill-opacity="0.35"/>
+<rect x="32" y="32" width="736" height="736" fill="none" stroke="#C5A46D" stroke-width="1.6" stroke-opacity=".8"/>
+</svg>

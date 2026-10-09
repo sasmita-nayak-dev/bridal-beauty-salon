@@ -1,0 +1,104 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-ivory: #faf6f0;
+  --color-cream: #f4ece3;
+  --color-blush: #e7c2c4;
+  --color-rose: #b77b83;
+  --color-rose-deep: #9c636b;
+  --color-gold: #c5a46d;
+  --color-gold-deep: #8f6f3a;
+  --color-espresso: #302521;
+  --color-espresso-soft: #5a4a44;
+
+  --font-serif: var(--font-cormorant), "Cormorant Garamond", Georgia, serif;
+  --font-sans: var(--font-dm-sans), "DM Sans", system-ui, sans-serif;
+}
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5.5rem;
+}
+
+body {
+  background: var(--color-ivory);
+  color: var(--color-espresso);
+  font-family: var(--font-sans);
+  overflow-x: clip;
+}
+
+::selection {
+  background: var(--color-blush);
+  color: var(--color-espresso);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-rose-deep);
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Lock page scroll while a modal dialog (gallery lightbox) is open */
+body:has(dialog[open]) {
+  overflow: hidden;
+}
+
+dialog[open] {
+  animation: fade-in 0.25s ease-out;
+}
+
+@layer components {
+  .animate-fade-up {
+    animation: fade-up 0.6s cubic-bezier(0.22, 1, 0.36, 1) both;
+  }
+  .animate-step-in {
+    animation: fade-up 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+  }
+  .eyebrow {
+    @apply font-sans text-[0.72rem] font-medium uppercase tracking-[0.28em] text-gold-deep;
+  }
+  .container-page {
+    @apply mx-auto w-full max-w-7xl px-5 sm:px-8 lg:px-12;
+  }
+  .gold-rule {
+    @apply block h-px w-16 bg-gold;
+  }
+  .section-y {
+    @apply py-20 sm:py-24 lg:py-32;
+  }
+}

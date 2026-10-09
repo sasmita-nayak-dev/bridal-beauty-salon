@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="gallery2" x1="0" y1="0" x2="0.4" y2="1"><stop offset="0" stop-color="#FAF6F0"/><stop offset="1" stop-color="#EBD9C8"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#gallery2)"/>
+<path d="M-10 200 C 360 80, 720 400, 1210 240" stroke="#C5A46D" fill="none" stroke-width="2" stroke-opacity="0.9"/><path d="M-10 280 C 360 176, 720 463.99999999999994, 1210 320" stroke="#C5A46D" fill="none" stroke-width="2" stroke-opacity="0.8"/><path d="M-10 360 C 360 272, 720 528, 1210 400" stroke="#C5A46D" fill="none" stroke-width="2" stroke-opacity="0.7"/><path d="M-10 440.00000000000006 C 360 368, 720 592, 1210 480.00000000000006" stroke="#C5A46D" fill="none" stroke-width="2" stroke-opacity="0.6"/><path d="M-10 520 C 360 463.99999999999994, 720 656, 1210 560" stroke="#C5A46D" fill="none" stroke-width="2" stroke-opacity="0.5"/><path d="M-10 600 C 360 560, 720 720, 1210 640" stroke="#C5A46D" fill="none" stroke-width="2" stroke-opacity="0.4"/><path d="M0 600 C 420 480, 780 760, 1200 560 V800 H0Z" fill="#B77B83" fill-opacity="0.3"/>
+<rect x="32" y="32" width="1136" height="736" fill="none" stroke="#C5A46D" stroke-width="1.6" stroke-opacity=".8"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0.4" y2="1"><stop offset="0" stop-color="#E7C2C4"/><stop offset="1" stop-color="#D9A5AA"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#g)"/>
+<rect x="150" y="260" width="500" height="480" fill="#FAF6F0" fill-opacity=".4" stroke="#C5A46D" stroke-width="2"/><circle cx="200" cy="300" r="12" fill="#C5A46D" fill-opacity=".8"/><circle cx="250" cy="300" r="12" fill="#C5A46D" fill-opacity=".8"/><circle cx="300" cy="300" r="12" fill="#C5A46D" fill-opacity=".8"/><circle cx="350" cy="300" r="12" fill="#C5A46D" fill-opacity=".8"/><circle cx="400" cy="300" r="12" fill="#C5A46D" fill-opacity=".8"/><circle cx="450" cy="300" r="12" fill="#C5A46D" fill-opacity=".8"/><circle cx="500" cy="300" r="12" fill="#C5A46D" fill-opacity=".8"/><circle cx="550" cy="300" r="12" fill="#C5A46D" fill-opacity=".8"/><circle cx="600" cy="300" r="12" fill="#C5A46D" fill-opacity=".8"/><circle cx="650" cy="300" r="12" fill="#C5A46D" fill-opacity=".8"/><rect x="250" y="760" width="300" height="40" fill="#9C636B" fill-opacity=".4"/>
+<rect x="32" y="32" width="736" height="936" fill="none" stroke="#C5A46D" stroke-width="1.6" stroke-opacity=".8"/>
+</svg>

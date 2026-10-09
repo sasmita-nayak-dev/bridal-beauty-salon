@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="servicereception" x1="0" y1="0" x2="0.4" y2="1"><stop offset="0" stop-color="#B77B83"/><stop offset="1" stop-color="#8E5860"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#servicereception)"/>
+<path d="M-10 250 C 240 100, 480 500, 810 300" stroke="#C5A46D" fill="none" stroke-width="2" stroke-opacity="0.9"/><path d="M-10 350 C 240 220, 480 580, 810 400" stroke="#C5A46D" fill="none" stroke-width="2" stroke-opacity="0.8"/><path d="M-10 450 C 240 339.99999999999994, 480 660, 810 500" stroke="#C5A46D" fill="none" stroke-width="2" stroke-opacity="0.7"/><path d="M-10 550 C 240 459.99999999999994, 480 740, 810 600.0000000000001" stroke="#C5A46D" fill="none" stroke-width="2" stroke-opacity="0.6"/><path d="M-10 650 C 240 580, 480 820.0000000000001, 810 700" stroke="#C5A46D" fill="none" stroke-width="2" stroke-opacity="0.5"/><path d="M-10 750 C 240 700, 480 900, 810 800" stroke="#C5A46D" fill="none" stroke-width="2" stroke-opacity="0.4"/><path d="M0 750 C 280 600, 520 950, 800 700 V1000 H0Z" fill="#E7C2C4" fill-opacity="0.3"/>
+<rect x="32" y="32" width="736" height="936" fill="none" stroke="#C5A46D" stroke-width="1.6" stroke-opacity=".8"/>
+</svg>
