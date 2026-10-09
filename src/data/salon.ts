@@ -12,8 +12,8 @@ export const salon: SalonConfig = {
   description:
     "A demonstration website for a premium Indian bridal beauty studio: bridal makeup, hair styling and skincare experiences.",
   announcement: "Bridal Season 2026 — Discover Your Signature Bridal Look",
-  phone: "+91 98765 43210",
-  whatsapp: "919876543210",
+  phone: "+91 7978166025",
+  whatsapp: "917008127251",
   email: "hello@example.com",
   address: {
     lines: ["12 Sample Lane, Demo Nagar", "Your City, State 000000"],
